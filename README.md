@@ -5,7 +5,6 @@
 
 <br>
 
-# <p align="center">TEJNAVI STUDIO</p>
 ## 🛡️ Digital Architecture & Automation
 **TEJNAVI STUDIO** is a specialized digital startup focused on the intersection of AI-powered automation and high-performance software. We build scalable foundations for businesses to transition from manual workflows to intelligent, automated systems.
 
@@ -51,7 +50,9 @@ Managing a multi-disciplinary team focused on strategy and high-level execution.
 ## 📩 Contact & Inquiry
 For professional outreach or contributor applications:
 
-## **[tejnavi.studio@gmail.com](mailto:tejnavi.studio@gmail.com)**
+## 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/@tejnavi.studio-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tejnavi.studio) &nbsp; [![Email](https://img.shields.io/badge/tejnavi.studio@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejnavi.studio@gmail.com)
 
 <br>
 
