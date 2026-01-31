@@ -1,4 +1,3 @@
-# <p align="center">TEJNAVI STUDIO</p>
 
 <p align="center">
   <img src="banner.png" alt="Tejnavi Studio Banner" width="100%">
@@ -6,6 +5,7 @@
 
 <br>
 
+# <p align="center">TEJNAVI STUDIO</p>
 ## 🛡️ Digital Architecture & Automation
 **TEJNAVI STUDIO** is a specialized digital startup focused on the intersection of AI-powered automation and high-performance software. We build scalable foundations for businesses to transition from manual workflows to intelligent, automated systems.
 
